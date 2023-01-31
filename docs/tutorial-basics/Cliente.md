@@ -3,8 +3,6 @@ sidebar_position: 1
 ---
 import ReactPlayer from 'react-player'
 
-FUNCIONA
-
 En esta sección encontrarás ayuda para las siguientes acciones:
 
 - **[Agregar un nuevo Cliente](./Cliente.md/#agregar-un-nuevo-cliente)**
