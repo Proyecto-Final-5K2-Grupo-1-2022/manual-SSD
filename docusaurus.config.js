@@ -81,7 +81,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentos',
             items: [
               {
                 label: 'Tutorial',
@@ -89,38 +89,32 @@ const config = {
               },
             ],
           },
+          
           {
-            title: 'Community',
+            title: '¡Encontranos en las Redes!',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Instagram',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
+                label: 'Whatsapp',
                 href: 'https://twitter.com/docusaurus',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Acerca de nosotros',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Contactanos',
+                href: 'http://ssd-proyectofinal.systems/',
               },
             ],
           },
+          
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SSD, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
