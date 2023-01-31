@@ -28,9 +28,14 @@ Si no apareció ninguna ventana de error, entonces has agragado el producto Corr
 
 ## Modificar el Precio de Venta de un Producto 
 
-(Regrabar video cuando esté el front)
+Una vez que el producto esté registrado, y posea un lote de existencias en el Inventario, podremos modificar su precio de venta.
 
-<ReactPlayer controls url='https://youtu.be/xy8F7TCXSWA' width='50%' />
+:::caution ACTUALIZACION DE PRECIOS
+En esta sección es donde se actualizarán el precio de los productos, de lotes ya ingresados.
+
+:::
+
+<ReactPlayer controls url='https://youtu.be/GgMKuxUx_X4' width='50%' />
 ---
 
 ## Eliminar un Producto
