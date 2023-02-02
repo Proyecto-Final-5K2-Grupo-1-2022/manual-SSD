@@ -49,7 +49,7 @@ Podrá hacer un pedido a partir de ese enlace del Catálogo que hemos enviado. V
 
 Vamos a crear una nueva plantilla de Catálogo, para luego poder enviarla al/los clientes seleccionados.
 
-<ReactPlayer controls url='https://youtu.be/j6bO9QJHPQQ' width='50%' />
+<ReactPlayer controls url='https://youtu.be/j6bO9QJHPQQ'/>
 
 ## Editar una Plantilla
 
@@ -58,13 +58,13 @@ Luego de creada una plantilla, podremos editar:
 - destinatarios **(Clientes)**
 - y **Productos** asociados. 
 
-<ReactPlayer controls url='https://youtu.be/rJGUVsg8Ax0' width='50%' />
+<ReactPlayer controls url='https://youtu.be/rJGUVsg8Ax0' />
 
 ## Generar Catálogo
 
 Una vez que se ha creado una plantilla, se podrá generar el Catálogo correspondiente para su posterior envío.
 
-<ReactPlayer controls url='https://youtu.be/NRJPq_Ocels' width='50%' />
+<ReactPlayer controls url='https://youtu.be/NRJPq_Ocels' />
 -
 
 :::tip Pendientes de Envío
@@ -87,7 +87,7 @@ Se podrán editar los siguientes datos de aquellos catálogos que aún **no se h
 - Destinatarios
 - Productos
 
-<ReactPlayer controls url='https://youtu.be/mQln0IqI1Pc' width='50%' />
+<ReactPlayer controls url='https://youtu.be/mQln0IqI1Pc' />
 
 ### • Eliminar un Catálogo 
 
@@ -98,7 +98,7 @@ Tener en cuenta que esta acción, solo elimina el Catálogo de la sección "PEND
 La plantilla que lo generó sigue estando creada.
 :::
 
-<ReactPlayer controls url='https://youtu.be/Dv6_LzAqOAY' width='50%' />
+<ReactPlayer controls url='https://youtu.be/Dv6_LzAqOAY' />
 
 ### • Enviar un Catálogo 
 
@@ -111,7 +111,7 @@ Al hacer click, llevará a la página de **Distribuidora Central** donde, deber�
 la cantidad de cada uno de los productos disponibles que desea pedir. 
 :::
 
-<ReactPlayer controls url='https://youtu.be/IzIJDPkhTn4' width='50%' />
+<ReactPlayer controls url='https://youtu.be/IzIJDPkhTn4' />
 -
 :::tip Catálogos Activos
 
@@ -130,19 +130,19 @@ Debe tenerse en cuenta la **FECHA DE VIGENCIA** de un Catálogo.
 La fecha Programada NO DEBE SER MAYOR a la fecha de vigencia del catálogo.
 :::
 
-<ReactPlayer controls url='https://youtu.be/SaREQS7TXO4' width='50%' />
+<ReactPlayer controls url='https://youtu.be/SaREQS7TXO4'/>
 
 ### • Cancelar Programación de Envío
 
 Luego de que se ha **programado** el envío de un **Catálgo**, podrá cancelarse dicho envío **antes de la fecha programada**.
 
-<ReactPlayer controls url='https://youtu.be/p2PxJcIdBsY' width='50%' />
+<ReactPlayer controls url='https://youtu.be/p2PxJcIdBsY' />
 
 ## Ver o Cancelar Catálogos Activos 
 
 En este segmento, se pueden observar aquellos catálogos que fueron enviados y sus fechas de validéz, aún se encuentran vigentes. 
 
-<ReactPlayer controls url='https://youtu.be/Jpl2prm0ZtQ' width='50%' />
+<ReactPlayer controls url='https://youtu.be/Jpl2prm0ZtQ' />
 -
 
 :::caution ANULAR CATÁLOGO ENVIADO

@@ -18,7 +18,7 @@ En esta sección encontrarás ayuda para las siguientes acciones:
  
  Es indipensable que haya **Clientes y Productos** registrados, para el envío de **[Catálogos](./Catalogos.md)** y para la creación de **[Pedidos y Presupuestos](./Pedidos.md)**.
 
-<ReactPlayer controls url='https://youtu.be/arVNePK0BNY' width='50%' />
+<ReactPlayer controls url='https://youtu.be/arVNePK0BNY'/>
 -
 :::caution Importante
 Los números de Celular deben ingresarse sin - guiones, sin 0 y sin 15.
@@ -29,11 +29,11 @@ Si no apareció ninguna ventana de error, entonces has agragado el usuario Corre
 :::
 ## Modificar un Cliente
 
-<ReactPlayer controls url='https://youtu.be/fXJvDqjENZI' width='50%' />
+<ReactPlayer controls url='https://youtu.be/fXJvDqjENZI'/>
 
 ## Eliminar un Cliente
 
- <ReactPlayer controls url='https://youtu.be/-kpeyjpO66c' width='50%'/> 
+ <ReactPlayer controls url='https://youtu.be/-kpeyjpO66c'/> 
 -
 :::danger Importante - Un cliente se elimina para futuras transacciones.
 Al eliminar un Cliente, tener en cuenta que no será eliminado de las transacciones que se hayan hecho con 
@@ -46,7 +46,7 @@ Por ejemplo: " No se eliminará el cliente en Remitos ya generados."
 
 ## Buscar un Cliente
 
-<ReactPlayer controls url='https://youtu.be/M7nnxKK_szU' width='50%' />
+<ReactPlayer controls url='https://youtu.be/M7nnxKK_szU'/>
 -
 :::tip Dato de Búsqueda
 
