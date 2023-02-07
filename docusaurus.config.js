@@ -71,7 +71,7 @@ const config = {
           },
          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'http://ssd-proyectofinal.systems/',
+            href: 'https://ssd-proyectofinal.systems/',
             label: 'Volver a SSD',
             position: 'right',
           },
