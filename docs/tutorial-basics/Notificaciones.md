@@ -21,14 +21,14 @@ Este Módulo cuenta con 2 secciones: **[Notificaciones](./Notificaciones.md/#not
 :::
 ### Nuevos Pedidos
        
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA' width='50%' />
+<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
 
 ## **Historial**
 
 Cuando una **Notificación** es visualizada, dejará de estar pendiente y se podrá observar en esta sección.
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA' width='50%' />
+<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
 
 ### Eliminar una Notificación del Historial
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA' width='50%' />
+<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>

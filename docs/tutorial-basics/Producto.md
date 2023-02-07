@@ -54,6 +54,8 @@ Para que esto sea posible, Recordá que Siempre debe tener lotes ya ingresados e
 
 ## Eliminar un Producto
 
+Es posible eliminar un Producto registrado, de la siguiente manera:
+
 <ReactPlayer controls url='https://youtu.be/3Q6EFlehs4g' width='50%'/> 
 ---
 

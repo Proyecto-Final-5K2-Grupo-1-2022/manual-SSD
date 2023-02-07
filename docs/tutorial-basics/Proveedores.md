@@ -15,8 +15,9 @@ En esta sección encontrarás ayuda para las siguientes acciones:
 
 ## Agregar un nuevo Proveedor
  
- Un proveedor es toda aquella persona o empresa, que nos va a proveer de los productos que tendremos en nuestro **[Inventario](./Inventario.md)**
-<ReactPlayer controls url='https://youtu.be/arVNePK0BNY'/>
+ Un proveedor es toda aquella persona o empresa, que nos va a proveer de los productos que tendremos en nuestro **[Inventario](./Inventario.md)**.
+
+<ReactPlayer controls url='https://youtu.be/rUU2AAxqZ2s'/>
 -
 :::caution Importante
 
@@ -25,31 +26,36 @@ Los números de Celular deben ingresarse sin **-** guiones, sin **0** y sin **15
 
 ## Modificar un Proveedor
 
-<ReactPlayer controls url='https://youtu.be/fXJvDqjENZI'/>
+Es posible modificar cualquier información de un Proveedor registrado, de la siguiente manera:
+
+<ReactPlayer controls url='https://youtu.be/VsPiWfxXZew'/>
 
 ## Eliminar un Proveedor
 
- <ReactPlayer controls url='https://youtu.be/-kpeyjpO66c'/> 
+Es posible eliminar un Proveedor registrado, de la siguiente manera:
+
+ <ReactPlayer controls url='https://youtu.be/Lkda8bCfVPM'/> 
 -
-:::danger Importante - Un cliente se elimina para futuras transacciones.
+:::danger Importante - Un Proveedor se elimina para futuras transacciones.
 
 Al eliminar un Proveedor, tener en cuenta que **NO** será eliminado de las transacciones que se hayan hecho con anterioridad.
 
 ```
-Por ejemplo: " No se afectará el Stock de productos de Proveedores que se hayan eliminado."
+Por ejemplo: " No se eliminarán del Stock aquellos productos que pertenezcan a Proveedores eliminados de la Base de Datos."
 ```
 :::
 
 ## Buscar un Proveedor
 
-<ReactPlayer controls url='https://youtu.be/M7nnxKK_szU'/>
+<ReactPlayer controls url='https://youtu.be/qb-5DWuKSWc'/>
 -
 :::tip Dato de Búsqueda
 
 La búsqueda requiere que se ingresen al menos 3 caracteres de alguno de los siguientes campos:
 - Nombre
-- E-mail
 - Teléfono
+- E-mail
+
 
 El filtro devolverá todos aquellos elementos que cumplan con la condición.
 :::

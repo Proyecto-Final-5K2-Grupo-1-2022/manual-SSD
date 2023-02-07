@@ -30,9 +30,13 @@ Si no apareció ninguna ventana de error, entonces has agragado el usuario Corre
 :::
 ## Modificar un Cliente
 
+Es posible modificar cualquier información de un Cliente registrado, de la siguiente manera:
+
 <ReactPlayer controls url='https://youtu.be/fXJvDqjENZI'/>
 
 ## Eliminar un Cliente
+
+Es posible eliminar un Cliente registrado, de la siguiente manera:
 
  <ReactPlayer controls url='https://youtu.be/-kpeyjpO66c'/> 
 -

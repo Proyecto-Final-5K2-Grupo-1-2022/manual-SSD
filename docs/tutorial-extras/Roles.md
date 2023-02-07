@@ -24,9 +24,14 @@ Por defecto, al crear un nuevo Rol, NO posee permisos asociados.
 Se deberá editar el nuevo Rol para poder tener acceso a  los módulos del sistema.
 :::
 
+<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+
 ## Editar un Rol
 
 Vamos a asignar los permisos que tendrá este Rol, a los diferentes módulos y sus acciones asociadas.
 
+<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+
 ## Eliminar un Rol
 
+<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
