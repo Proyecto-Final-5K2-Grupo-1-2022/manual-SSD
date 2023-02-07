@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Manual de Usuario',
   tagline: 'Sistema de Soporte a Distribuidora Central',
-  url: 'https://mvale888.github.io',
+  url: 'https://proyecto-final-5k2-grupo-1-2022.github.io/',
   baseUrl: '/manual-SSD/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mvale888', // Usually your GitHub org/user name.
+  organizationName: 'Proyecto-Final-5K2-Grupo-1-2022', // Usually your GitHub org/user name.
   projectName: 'manual-SSD', // Usually your repo name.
   deploymentBranch: 'deploy',
   // Even if you don't use internalization, you can use this field to set useful
