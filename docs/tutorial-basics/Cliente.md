@@ -21,7 +21,8 @@ En esta sección encontrarás ayuda para las siguientes acciones:
 <ReactPlayer controls url='https://youtu.be/arVNePK0BNY'/>
 -
 :::caution Importante
-Los números de Celular deben ingresarse sin - guiones, sin 0 y sin 15.
+
+Los números de Celular deben ingresarse sin **-** guiones, sin **0** y sin **15**.
 :::
 :::tip Verificación
 
@@ -46,7 +47,7 @@ Por ejemplo: " No se eliminará el cliente en Remitos ya generados."
 
 ## Buscar un Cliente
 
-<ReactPlayer controls url='https://youtu.be/M7nnxKK_szU'/>
+<ReactPlayer controls url='https://youtu.be/M7nnxKK_szU' position='relative'/>
 -
 :::tip Dato de Búsqueda
 

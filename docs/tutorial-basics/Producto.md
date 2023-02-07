@@ -5,6 +5,15 @@ import ReactPlayer from 'react-player'
 
 En esta sección encontrarás ayuda para las siguientes acciones:
 
+- **[Agregar un nuevo Producto](./Producto.md/#agregar-un-nuevo-producto)**
+
+- **[Modificar un Producto](./Producto.md/#modificar-un-producto)**
+
+- **[Modificar el Precio de Venta un Producto](./Producto.md/#modificar-el-precio-de-venta-de-un-producto)**
+
+- **[Eliminar un Producto](./Producto.md/#eliminar-un-producto)**.
+
+- **[Buscar un Producto](./Producto.md/#buscar-un-producto)**.
 ## Agregar un nuevo Producto
  
 <ReactPlayer controls url='https://youtu.be/mKiAm71ZL84' width='50%' />
@@ -17,21 +26,26 @@ Para registrar ingresos/egresos de lotes de un Producto, deberá hacerlo a trav�
 
 :::tip Verificación
 
-Si no apareció ninguna ventana de error, entonces has agragado el producto Correctamente!.
+Podrás verificar el nuevo Producto Agregado desde el **[Buscador](./Producto.md/#buscar-un-producto)**.
 
 :::
 ---
 ## Modificar un Producto
+
+Es posible modificar cualquier información de un producto registrado, de la siguiente manera:
 
 <ReactPlayer controls url='https://youtu.be/HwcURpzFQLY' width='50%' />
 ---
 
 ## Modificar el Precio de Venta de un Producto 
 
-Una vez que el producto esté registrado, y posea un lote de existencias en el Inventario, podremos modificar su precio de venta.
+Una vez que el producto esté registrado, y posea un **lote de existencias en el Inventario**, podremos modificar su precio de venta.
 
 :::caution ACTUALIZACION DE PRECIOS
-En esta sección es donde se actualizarán el precio de los productos, de lotes ya ingresados.
+
+En esta sección es donde se actualizará el precio de los productos.
+
+Para que esto sea posible, Recordá que Siempre debe tener lotes ya ingresados en el **[Inventario](./Inventario.md/#ingreso-de-productos-al-stock)**.
 
 :::
 

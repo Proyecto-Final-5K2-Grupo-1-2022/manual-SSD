@@ -40,7 +40,7 @@ En esta sección encontrarás ayuda para las siguientes acciones:
 
 En esta sección, se podrá actualizar manualmente, el Stock de aquellos productos que **no hayan sido remitados.**
 
-**RECORDAR:** los productos que se remitan, serán descontados automáticamente del inventario.
+**RECORDAR:** los productos que sean remitados, serán descontados automáticamente del inventario.
 
 
 <ReactPlayer controls url='https://youtu.be/FajKRCPbQco' width='50%' />
@@ -67,7 +67,7 @@ Ver sección **[Pedidos](./Pedidos.md)**
 
 :::
 ## Próximos Vencimientos
- En esta sección podremos visualizar el listado de productos en stock, próximos a vencer.
+ En esta sección podremos visualizar el listado de productos en stock que estén próximos a vencer.
 
  Se mostrarán en una grilla de modo **Ascendente**, es decir, desde fecha más próxima a fecha más lejana.
 

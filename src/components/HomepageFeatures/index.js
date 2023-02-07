@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Fácil de Usar',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
         Esta guía fué diseñada para ir aprendiendo paso a paso, cómo usar facilmente
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Enfocate en lo importante',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/focus.svg').default,
     description: (
       <>
        Ingresando a <code>Tutorial</code>, vas a poder enfocarte en cada módulo, utilizando el menú 
