@@ -10,6 +10,11 @@ En esta guía, vas a encontrar breves videos explicativos que te ayudarán a uti
  
 **[Sistema de Soporte a Distribuidora SSD](https://ssd-proyectofinal.systems/)**.
 
+:::danger Vista desde el Celular
+
+Si estás viendo este manual desde un Celular, te recomendamos habilitar la **rotación horizontal**, para visualizar mejor los videos del instructivo.
+:::
+
 - ### ¿Para qué sirve SSD?
 
 Aquí una breve presentación:
