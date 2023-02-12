@@ -25,7 +25,7 @@ En esta sección encontrarás ayuda para las siguientes acciones:
  Se podrán registrar Ingresos de varios productos en una misma transacción.
 :::
 
- <ReactPlayer controls url='https://youtu.be/N8ZBKl-B_Yw' width='50%' />
+ <ReactPlayer controls url='https://youtu.be/N8ZBKl-B_Yw'/>
 -
 
 :::caution Importante
@@ -43,7 +43,7 @@ En esta sección, se podrá actualizar manualmente, el Stock de aquellos product
 **RECORDAR:** los productos que sean remitados, serán descontados automáticamente del inventario.
 
 
-<ReactPlayer controls url='https://youtu.be/FajKRCPbQco' width='50%' />
+<ReactPlayer controls url='https://youtu.be/FajKRCPbQco'/>
 ---
 
 :::danger Importante
@@ -58,7 +58,7 @@ Se podrá realizar la búsqueda del stock de un Producto, solo por el campo **"N
 
 No será posible buscar por **"Categoría"** o **"Marca"**.
 
-<ReactPlayer controls url='https://youtu.be/XEmLpbsGKW4' width='50%' />
+<ReactPlayer controls url='https://youtu.be/XEmLpbsGKW4'/>
 -
 :::danger STOCK RESERVADO
 
@@ -71,7 +71,7 @@ Ver sección **[Pedidos](./Pedidos.md)**
 
  Se mostrarán en una grilla de modo **Ascendente**, es decir, desde fecha más próxima a fecha más lejana.
 
-<ReactPlayer controls url='https://youtu.be/o_A5CaJ05xg' width='50%' />
+<ReactPlayer controls url='https://youtu.be/o_A5CaJ05xg'/>
 -
 
 :::tip NOTIFICACIONES

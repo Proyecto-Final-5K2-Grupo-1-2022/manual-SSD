@@ -93,7 +93,7 @@ Se podrán editar los siguientes datos de aquellos catálogos que aún **no se h
 
 Todo catálogo que aún **no se haya enviado**, podrá eliminarse.
 :::caution NO SE ELIMINA LA PLANTILLA
-Tener en cuenta que esta acción, solo elimina el Catálogo de la sección "PENDIENTES DE ENVVÍO".
+Tener en cuenta que esta acción, solo elimina el Catálogo de la sección "PENDIENTES DE ENVÍO".
 
 La plantilla que lo generó sigue estando creada.
 :::

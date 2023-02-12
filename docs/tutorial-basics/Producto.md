@@ -16,7 +16,7 @@ En esta sección encontrarás ayuda para las siguientes acciones:
 - **[Buscar un Producto](./Producto.md/#buscar-un-producto)**.
 ## Agregar un nuevo Producto
  
-<ReactPlayer controls url='https://youtu.be/mKiAm71ZL84' width='50%' />
+<ReactPlayer controls url='https://youtu.be/mKiAm71ZL84'/>
 ---
 
 :::caution Importante
@@ -34,7 +34,7 @@ Podrás verificar el nuevo Producto Agregado desde el **[Buscador](./Producto.md
 
 Es posible modificar cualquier información de un producto registrado, de la siguiente manera:
 
-<ReactPlayer controls url='https://youtu.be/HwcURpzFQLY' width='50%' />
+<ReactPlayer controls url='https://youtu.be/HwcURpzFQLY'/>
 ---
 
 ## Modificar el Precio de Venta de un Producto 
@@ -49,14 +49,14 @@ Para que esto sea posible, Recordá que Siempre debe tener lotes ya ingresados e
 
 :::
 
-<ReactPlayer controls url='https://youtu.be/GgMKuxUx_X4' width='50%' />
+<ReactPlayer controls url='https://youtu.be/GgMKuxUx_X4'/>
 ---
 
 ## Eliminar un Producto
 
 Es posible eliminar un Producto registrado, de la siguiente manera:
 
-<ReactPlayer controls url='https://youtu.be/3Q6EFlehs4g' width='50%'/> 
+<ReactPlayer controls url='https://youtu.be/3Q6EFlehs4g'/> 
 ---
 
 :::danger Importante - Un Producto se elimina para futuras transacciones.
@@ -71,7 +71,7 @@ Por ejemplo: " No se eliminará el Producto en Remitos ya generados."
 
 ## Buscar un Producto
 
-<ReactPlayer controls url='https://youtu.be/DTqVDsKQKP0' width='50%' />
+<ReactPlayer controls url='https://youtu.be/DTqVDsKQKP0'/>
 ---
 
 :::tip Dato de Búsqueda
