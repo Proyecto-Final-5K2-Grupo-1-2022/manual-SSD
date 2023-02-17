@@ -8,7 +8,7 @@ El Inventario es el **stock de Productos** que posee Distribuidora Central.
 En esta sección encontrarás ayuda para las siguientes acciones:
 
 ## Ingreso de Productos al Stock
- En esta sección se registra, el ingreso al stock de **lotes** de productos.
+Se registra el ingreso al stock de **lotes** de productos.
  
 
  **¿Qué es un LOTE?**
@@ -25,7 +25,7 @@ En esta sección encontrarás ayuda para las siguientes acciones:
  Se podrán registrar Ingresos de varios productos en una misma transacción.
 :::
 
- <ReactPlayer controls url='https://youtu.be/N8ZBKl-B_Yw'/>
+ <ReactPlayer controls url='https://youtu.be/e3cTxY16ov0'/>
 -
 
 :::caution Importante
@@ -40,8 +40,11 @@ En esta sección encontrarás ayuda para las siguientes acciones:
 
 En esta sección, se podrá actualizar manualmente, el Stock de aquellos productos que **no hayan sido remitados.**
 
-**RECORDAR:** los productos que sean remitados, serán descontados automáticamente del inventario.
+:::tip RECORDAR
 
+Los productos que sean remitados desde un **[Pedido](./Pedidos.md)**, serán descontados automáticamente del inventario.
+
+:::
 
 <ReactPlayer controls url='https://youtu.be/FajKRCPbQco'/>
 ---

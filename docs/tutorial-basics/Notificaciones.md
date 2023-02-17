@@ -5,8 +5,7 @@ import ReactPlayer from 'react-player'
 
 El acceso se identifica con el ícono de una **Campana** ![Activos](../../static/img/campanita.png).
 
-Este Módulo cuenta con 2 secciones: **[Notificaciones](./Notificaciones.md/#notificaciones)** e **[Historial](./Notificaciones.md/#historial)** 
-
+En este módulo podremos ver **[Notificaciones](./Notificaciones.md/#notificaciones)** actuales y su  **[Historial](./Notificaciones.md/#historial)**.
 ## **Notificaciones**
  Aquí podremos ver: **[Avisos de Vencimiento](./Notificaciones.md/#avisos-de-vencimiento)** y **[Nuevos Pedidos](./Notificaciones.md/#nuevos-pedidos)**.
  
