@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 import ReactPlayer from 'react-player'
 
-En esta sección vamos a crear usuarios que podrán **Iniciar Sesión** en **[Sistema de Soporte a Distribuidora   ](https://ssd-proyectofinal.systems/)**
+En esta sección vamos a crear usuarios que podrán **Iniciar Sesión** en **[Sistema de Soporte a Distribuidora]**
 
 :::tip administrador
 
