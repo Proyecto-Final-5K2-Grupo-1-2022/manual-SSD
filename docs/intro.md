@@ -19,7 +19,7 @@ Si estás viendo este manual desde un Celular, te recomendamos habilitar la **ro
 
 Aquí una breve presentación:
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=dX-hZwP3lJc&list=PLpyf3L4czFdpP4LZZhhjridvfwvAYW7c0 width=30%'/>
+<ReactPlayer controls url='https://youtu.be/dX-hZwP3lJc' />
 
 -----------------------------------------------------
 
