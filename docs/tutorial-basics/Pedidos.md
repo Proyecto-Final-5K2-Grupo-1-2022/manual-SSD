@@ -20,9 +20,9 @@ Todos aquellos clientes que hayan recibido el  mensaje de **Whatsapp**, podrán 
 -
 
 :::tip enviar instructivo
-Podrás enviar a tu cliente el instructivo sobre cómo se realiza el pedido.
+Podrás enviar a tu cliente el siguiente instructivo sobre cómo realizar un pedido.
 
-Enviando el siguiente enlace, disponible en Youtube las 24hs, los 365 días del año.
+El siguiente enlace se encuentra disponible en Youtube las 24hs, los 365 días del año.
 ```bash 
 https://youtu.be/iEd_Egslvt0
 ```
@@ -30,13 +30,13 @@ https://youtu.be/iEd_Egslvt0
 
 ## Realizar Pedidos siendo Distribuidora Central
 
-Todos los Pedidos se presupuestan, y una vez confirmados, se genera su Remito correspondiente, el cual se adjuntará en la entrega de los productos.
+Todos los pedidos se presupuestan, y una vez confirmados por los Clientes, se genera su Remito correspondiente, el cual se adjuntará en la entrega de los productos.
 
 Existen 2 tipos de pedidos a Presupuestar:
 - **[Pedidos generados por los Clientes](./Pedidos.md/#presupuestar-pedido-generado-por-un-cliente)**
 - **[Pedidos generados manualmente](./Pedidos.md/#presupuestar-pedido-generado-por-distribuidora-central)**
 
-:::tip Pedido → Presupuesto → Confirmación → Remito → Entrega.
+:::tip CIRCUITO: Pedido → Presupuesto → Confirmación → Remito → Entrega.
 
  Luego de recibir el Pedido, se genera un Presupuesto. Al confirmar
  el Presupuesto del Pedido de productos disponibles, se genera un Remito. 
@@ -51,7 +51,8 @@ En este ejemplo se presupuesta y se genera el remito del **Pedido Pendiente #10*
 
 :::danger Anular
 
-Es posible anular en cualquier momento un Presupuesto o Remitos creados.
+Es posible anular en cualquier momento Presupuestos o Remitos creados. 
+Esto sucede cuando el Cliente cancela el Pedido que aún **no fué entregado**.
 
 :::
 
@@ -59,13 +60,13 @@ Es posible anular en cualquier momento un Presupuesto o Remitos creados.
 
  ### Presupuestar pedido generado por Distribuidora Central
 
-Es posible generar Presupuestos manualmente, es decir; sin que se haya generado un **Catálogo de productos disponibles** vía whatsapp.
+Es posible generar Presupuestos manualmente, es decir; sin que se haya generado un enlace a **Catálogo de productos disponibles** vía whatsapp.
 
 :::danger Importante
 El campo Recargo/Descuento son valores porcentuales:
 
-- positivos: cuando se desea aumentar un % del importe.
-- negativos: cuando se desea descontar un % del importe.
+- **% positivos (Recargo)**: cuando se desea aumentar un % del importe.
+- **% negativos (Descuento)**: cuando se desea descontar un % del importe.
 
 ```
 Por ejemplo: 
@@ -82,16 +83,18 @@ Por ejemplo:
 En todo Pedido que se haya presupuestado, se podrán realizar alguna de las siguientes acciones:
  - **Anular**: Esta acción cambia el estado del Presupuesto y lo inhabilita.
  - **Editar**: Esta acción sirve para modificar el Presupuesto antes de realizar cualquiera de las siguientes acciones.
- - **Confirmar**: cuando se confirma un Presupuesto, significa que el cliente aceptó el mismo y se pasa a la instancia de preparación del pedido, que habilita la creación del remito del mismo. **Ver [Pedidos Activos](../tutorial-basics/Pedidos.md/#pedidos-activos).**
- - **Imprimir**: la impresión del Pedido genera un archivo en formato PDF, luego de haber confirmado un Presupuesto.
+ - **Confirmar**: cuando se confirma un Presupuesto, significa que el cliente aceptó el Pedido y se pasa a la instancia de preparación del mismo, esto habilita la creación del remito. **Ver [Pedidos Activos](../tutorial-basics/Pedidos.md/#pedidos-activos).** 
+  En esta instancia, el pedido está ***LISTO PARA ARMAR Y ENTREGAR***.
+ - **Imprimir**: el imprimir el Presupuesto genera un archivo en formato PDF, que se podrá imprimir o descargar.
  - **Enviar**: Esta acción, genera un archivo PDF y lo envía al whatsapp del Cliente que se encuentra asociado a ese Presupuesto.
 
 Se muestran a continuación estas acciones:
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>.
+
+<ReactPlayer controls url='https://youtu.be/BM8hRxBf8Ew'/>.
 
 ## Pedidos Activos
 
- Los Pedidos activos son aquellos pedidos armados, cuyo remito fué generado, y que ya están listos para ser retirados por el Cliente. Les llamaremos **Pedidos Remitados**.
+ Los Pedidos activos son aquellos pedidos que se encuetran confirmados y aceptados por el Cliente, cuyo remito fué generado, y que ya están listos para ser preparados y entregados. Les llamaremos **Pedidos Remitados**.
  
 :::tip Remitos
  
@@ -100,10 +103,10 @@ Los pedidos Remitados son aquellos que ya poseen **remitos generados**.
 
  Un **pedido remitado**, podrá tener alguna de las siguientes acciones:
    
-   - Anular
-   - Ver Presupuesto
-   - Entregar
+   - **Anular**: Esta acción cambia el estado del Remito y lo inhabilita. El número que posee ese remito, no se reutiliza y queda registrado en la Base de Datos como **Anulado**.
+   - **Ver Presupuesto**: desde esta acción redirecciona el Remito hacia el Presupuestó que lo originó. Esto permitirá *Enviar o Imprimir* el Presupuesto del Remito. Ver **[Acciones sobre Presupuestos](../tutorial-basics/Pedidos.md/#acciones-sobre-presupuestos).** 
+   - **Entregar**: en esta acción, se registra la entrega del pedido al Cliente.
 
 Se muestran a continuación estas acciones:
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>.
+<ReactPlayer controls url='https://youtu.be/KcHKPqJWw-w'/>.

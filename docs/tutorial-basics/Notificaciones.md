@@ -20,14 +20,16 @@ En este módulo podremos ver **[Notificaciones](./Notificaciones.md/#notificacio
 :::
 ### Nuevos Pedidos
        
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/x9V4eCkF62E'/>
 
 ## **Historial**
 
 Cuando una **Notificación** es visualizada, dejará de estar pendiente y se podrá observar en esta sección.
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+:::tip Eliminar Historial
 
-### Eliminar una Notificación del Historial
+El historial de notificaciones que ya fueron visualizadas, se puede limpiar haciendo click en el simbolo de la papelera  ![Actives](../../static/img/draft.png).
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+:::
+
+<ReactPlayer controls url='https://youtu.be/tWTnKox1ACU'/>
