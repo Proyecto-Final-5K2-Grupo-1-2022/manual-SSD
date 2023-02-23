@@ -21,7 +21,7 @@ Aquí podremos observar el histótico de todos los Catálogos generados, y que p
 - **Catálogo Expirado:** Todos los catálogos poseen una fecha de vigencia. Una vez finalizada esta fecha, los mismos expiran, y los clientes ya no pueden acceder a ellos para realizar pedidos.
 
 Se muestran a continuación estas acciones:
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/xeuBLuXGV74'/>
 
 ## Histórico de Pedidos
 
@@ -33,7 +33,7 @@ Aquí podremos observar el histótico de todos los Pedidos generados, y que pose
 
 
 Se muestran a continuación estas acciones:
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/E-7oSokXMtQ'/>
 
 ## Histórico de Presupuestos
 
