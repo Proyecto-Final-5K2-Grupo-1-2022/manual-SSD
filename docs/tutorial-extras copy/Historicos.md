@@ -5,10 +5,10 @@ import ReactPlayer from 'react-player'
 
 En esta sección se podrá visualizar el historial de movimientos realizados en:
 
-- **Catálogos**
-- **Pedidos**
-- **Presupuestos**
-- **Stock**
+- **[Catálogos](./Historicos.md/#histórico-de-catálogos)**
+- **[Pedidos](./Historicos.md/#histórico-de-pedidos)**
+- **[Presupuestos](./Historicos.md/#histórico-de-presupuestos)**
+- **[Stock](./Historicos.md/#histórico-de-stock)** 
 
 ## Histórico de Catálogos
 
@@ -21,7 +21,7 @@ Aquí podremos observar el histótico de todos los Catálogos generados, y que p
 - **Catálogo Expirado:** Todos los catálogos poseen una fecha de vigencia. Una vez finalizada esta fecha, los mismos expiran, y los clientes ya no pueden acceder a ellos para realizar pedidos.
 
 Se muestran a continuación estas acciones:
-<ReactPlayer controls url='https://youtu.be/xeuBLuXGV74'/>
+<ReactPlayer controls url='https://youtu.be/-cc2-MLidf4'/>
 
 ## Histórico de Pedidos
 
@@ -45,7 +45,7 @@ Aquí podremos observar el histótico de todos los Presupuestos generados, y que
 - **Presupuesto Anulado:** detalla el histórico de los Presupuestos que por algún motivo, se decidieron anular. 
  
 Se muestran a continuación estas acciones:
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/VnFqpuZQZKg'/>
 
 ## Histórico de Stock
 
@@ -56,4 +56,4 @@ Aquí podremos observar el histótico de todos los movimientos del stock de prod
 - **Venta:** detalla los productos que egresaron del stock a través de una venta generada desde un Catálogo.
 
 Se muestran a continuación estas acciones:
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/Se6cVjg2i6c'/>
