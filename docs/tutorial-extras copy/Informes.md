@@ -39,4 +39,4 @@ El cálculo de las utilidades en un período de tiempo, tiene en cuenta las vent
 
 Se muestra a continuación un ejemplo de este informe:
 
-<ReactPlayer controls url='https://youtu.be/-NahuMOVx5I'/>
+<ReactPlayer controls url='https://youtu.be/-NahuMOVx5I'/>-
