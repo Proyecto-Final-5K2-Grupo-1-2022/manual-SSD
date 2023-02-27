@@ -7,25 +7,29 @@ import ReactPlayer from 'react-player'
 
 En esta sección vamos a obtener 3 tipos de informes estadísiticos:
 
-### **Ventas**
- Aplicando los filtros de los períodos de tiempo que se deseen verificar, este informe muestra un gráfico de las Ventas totales realizadas en unidades, es decir que no discrimina por producto.
+### **Ventas Totales**
+Este informe muestra un gráfico de las Ventas totales realizadas en unidades, sin discriminar por producto. 
+
+Se podrán aplicar filtros por períodos de tiempo, es decir, filtrar las ventas en un rango de tiempo específico que se deseen verificar,
 
 Se muestra a continuación un ejemplo de este informe:
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/0spcdv7Ne2g'/>
 -
 
 ### **Ventas por Producto**
 
-Aquí se podrán obtener el informe de las unidades de ventas de un producto determinado.
+Aquí se podrá obtener el informe de las unidades vendidas de uno o varios productos determinados.
 
 Se muestra a continuación un ejemplo de este informe:
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/> 
+<ReactPlayer controls url='https://youtu.be/yLNGkjXSB30'/> 
 
 ### **Utilidades**
 
-Las utilidades son calculadas teniendo en cuenta la inflación registrada de los datos publicados por el **Banco Central de la República Argentina (BCRA)**.
+El cálculo de las utilidades en un período de tiempo, tiene en cuenta las ventas netas, así como también las utilidades afectadas por la inflación.
+
+ (*Fuente: Datos que publica  el **Banco Central de la República Argentina BCRA** mes a mes*).
 
 :::danger Datos publicada por el BCRA
 
@@ -35,4 +39,4 @@ Las utilidades son calculadas teniendo en cuenta la inflación registrada de los
 
 Se muestra a continuación un ejemplo de este informe:
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=5izFl8PhsAA'/>
+<ReactPlayer controls url='https://youtu.be/-NahuMOVx5I'/>
